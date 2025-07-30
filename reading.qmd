@@ -1,0 +1,23 @@
+---
+title: "Reading List"
+---
+
+## General & Introductory
+
+* Engines of Logic. Martin Davis
+* Computation and its Limits. Cockshott et al
+* The Outer Limits of Reason - What Science, Mathematics, and Logic Cannot Tell Us. Yanofsky
+
+## Finite Machines, Formal Languages (and Possibly Computability)
+
+* Introduction to Formal Languages and Automata. Linz
+* The Language of Machines - An Introduction to Computability and Formal Languages. Floyd
+* Models of Computation. Taylor
+* Programs and Machines. Bird
+
+## Computability Specific
+
+* Computability. Epstein, Carnielli
+* Computability Theory. Enderton
+* Computability. Cutland
+
