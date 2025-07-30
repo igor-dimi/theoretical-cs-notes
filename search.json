@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theoretical Computer Science",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "General & Introductory",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#general-introductory",
+    "href": "reading.html#general-introductory",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "Engines of Logic. Martin Davis\nComputation and its Limits. Cockshott et al\nThe Outer Limits of Reason - What Science, Mathematics, and Logic Cannot Tell Us. Yanofsky",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#finite-machines-formal-languages-and-possibly-computability",
+    "href": "reading.html#finite-machines-formal-languages-and-possibly-computability",
+    "title": "1  Reading List",
+    "section": "Finite Machines, Formal Languages (and Possibly Computability)",
+    "text": "Finite Machines, Formal Languages (and Possibly Computability)\n\nIntroduction to Formal Languages and Automata. Linz\nThe Language of Machines - An Introduction to Computability and Formal Languages. Floyd\nModels of Computation. Taylor\nPrograms and Machines. Bird",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#computability-specific",
+    "href": "reading.html#computability-specific",
+    "title": "1  Reading List",
+    "section": "Computability Specific",
+    "text": "Computability Specific\n\nComputability. Epstein, Carnielli\nComputability Theory. Enderton\nComputability. Cutland",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  }
+]
